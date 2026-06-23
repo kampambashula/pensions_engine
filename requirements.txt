@@ -1,0 +1,16 @@
+# Pension Actuarial Intelligence Engine
+# Requirements — production grade
+
+# Core data
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Database
+# sqlite3 is stdlib — no install needed
+
+# Dashboard
+streamlit>=1.35.0
+plotly>=5.20.0
+
+# Utilities
+python-dateutil>=2.9.0
